@@ -1,4 +1,5 @@
 Data/
+.ipynb_checkpoints/
 *.csv
 *.dot
 tree.png
