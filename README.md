@@ -1,5 +1,5 @@
-#Strathcylde_AFRC_machine_learning_tutorials
-Machine Learning tutorials oriented at begginers in data science. Methods are applied on ZeMA-s testbed data (Zentrum für Mechatronik und Automatisierungstechnik gGmbH). 
+# Strathcylde_AFRC_machine_learning_tutorials
+Machine Learning tutorials oriented at begginers in data science. Methods are applied on Strathcylde-s testbed data (Advanced Forming Research Centre | University of Strathclyde). 
 
 Get started
 ---
